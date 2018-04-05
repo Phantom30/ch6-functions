@@ -16,7 +16,7 @@ now_doing <- print(paste("I am programming"))
 
 # Make the `now_doing` variable upper case
 toupper(now_doing)
-
+ 
 ### Bonus
 
 # Pick two of your favorite numbers (between 1 and 100) and assign them to 
